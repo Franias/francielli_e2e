@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=
+org.eclipse.jdt.core.classpathVariable.OPENJML_PLUGIN=C\:/Sof/eclipse/configuration/org.eclipse.osgi/1008/0/.cp
+org.eclipse.jdt.core.classpathVariable.OPENJML_RUNTIME_LIBRARY=C\:/Sof/eclipse/configuration/org.eclipse.osgi/1008/0/.cp/jmlruntime.jar
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
 org.eclipse.jdt.core.compiler.compliance=1.8
